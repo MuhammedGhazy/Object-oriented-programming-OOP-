@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1707951651 source:c:\users\access\desktop\object-oriented-programming-oop-\1-oop\car.cpp
+	"car.h"
+
+1707951651 c:\users\access\desktop\object-oriented-programming-oop-\1-oop\car.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+
+1707951676 source:c:\users\access\desktop\object-oriented-programming-oop-\1-oop\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+
